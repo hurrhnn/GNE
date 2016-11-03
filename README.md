@@ -304,6 +304,7 @@ SSVM 실행에는 많은 자원이 필요합니다. 본인의 컴퓨터 사양�
 ## 기반시스템 SSVM
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 GNE로 만든 `사회`는 SoonSil Viseonsilse Machine을 기반으로 구동됩니다. 런타임 "해내겠습니다"의 실세입니다.
 독일 저녁이 되는 시간(UTC +2)에는 잠들기 때문에 GNE로 만든 사회는 작동하지 않습니다.
 >>>>>>> e7bff19... added some wordings
@@ -312,6 +313,9 @@ SoonSil Viseonsilse Machine의 약자이며, "순실브이엠"으로 읽습니�
 =======
 SoonSil Viseonsilse Machine의 약자이며, "순실브이엠"으로 읽습니다. SSVM자체적으로 이름을 자주 바꾸니 주의가 필요합니다. 다른 이름으로는 PhilNye Viseonsilse Machine, SeoWon Viseonsilse Machine이 있다.
 >>>>>>> dc6e37c... 3문장 추가
+=======
+SoonSil Viseonsilse Machine의 약자이며, "순실브이엠"으로 읽습니다. SSVM자체적으로 이름을 자주 바꾸니 주의가 필요합니다. 다른 이름으로는 PhilNye Viseonsilse Machine, SeoWon Viseonsilse Machine이 있습니다.
+>>>>>>> aca5e8a... 높임말 수정
 GNE로 만든 `사회`는 SSVM을 기반으로 구동됩니다. 런타임 "해내겠습니다"의 실세입니다.
 
 
